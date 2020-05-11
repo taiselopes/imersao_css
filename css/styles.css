@@ -1,0 +1,56 @@
+body {
+  
+    background-image:url("https://hbr.org/resources/images/article_assets/2018/08/R1805D_CHIN-1900x893.jpg");
+    font-family:arial;
+    background-size:auto 100vh;
+    height: 100vh;
+      
+  }
+  
+  .menu {
+    
+    background:white;
+
+  }
+  
+  .menu ul {
+
+    display:flex;
+    justify-content: space-around;
+    
+  }
+  
+  .menu li {
+
+    list-style: none;
+
+  }
+  
+  a {
+    
+    text-decoration: none;
+    color: teal;
+    
+  }
+
+  a:hover {
+
+     text-decoration:underline;
+
+  }
+  
+  .site-title, 
+  .site-subtitle {
+
+    text-align:center;
+    color:whitesmoke;
+    
+  }
+  
+  .site-subtitle {
+
+    font-style:italic
+
+  }
+  
+  
